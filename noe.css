@@ -1,0 +1,35 @@
+body {
+    margin: 150px;
+    
+}
+.img {
+    width: 120px;
+}
+.main {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px solid blue;
+    border-radius: 5px;
+    background-color: lightblue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    border-bottom: 10px solid burlywood;
+    color: black;
+    
+}
+
+ .pic {
+    border: 0px dotted blue;
+    border-radius: 2px;
+    padding: 5px;
+    
+}
+.name {
+    border: 0px dotted blue;
+    border-radius: 2px;
+    padding: 5px;
+    text-align: center;
+
+}

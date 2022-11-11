@@ -1,0 +1,25 @@
+.head {
+    color: black;
+    font-weight: 10px;
+    font-family: sans-serif;
+}
+.main {
+    margin: 20px;
+    border: 	10px solid red;
+    border-radius: 20px;
+}
+.color_yellow {
+    background: #ffff00;
+    height: 100px;
+    margin: 10px;
+}
+.color_black {
+    background: #000000;
+    height: 100px;
+    margin: 10px 10px 10px;
+}
+.color_red {
+    background: #ff0000;
+    height: 100px;
+   margin: 10px 10px 10px;
+ }
